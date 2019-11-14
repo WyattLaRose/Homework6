@@ -1,3 +1,8 @@
+//Homework 5 Java Script
+//Name: Wyatt LaRose
+//Student Email: Wyatt_LaRose@student.uml.edu
+//Computer Science Email: wlarose@cs.uml.edu
+//Affiliation: UMass Lowell Computer Science, Junior Year
 function createTable(){
 	//This function will make a table with the id multTable, this test to see if there already is a table and clears it if there is
 	var table = document.getElementById("multTable");
